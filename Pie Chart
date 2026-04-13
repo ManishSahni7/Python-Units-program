@@ -1,0 +1,5 @@
+Pie Chart 
+import matplotlib.pyplot as plt 
+data = [30, 40, 30] 
+plt.pie(data) 
+plt.show()
