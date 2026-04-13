@@ -1,0 +1,4 @@
+List & Tuple 
+values = input("Enter numbers separated by comma: ") 
+lst = values.split(",") 
+tup = tuple(lst)
